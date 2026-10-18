@@ -1,4 +1,5 @@
 # Stateful capture
 
-First web-editor commit.
-ro
+Corrected second web-editor edit.
+
+Edited in the GitHub web editor.
